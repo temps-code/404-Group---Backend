@@ -1,0 +1,828 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\infraestructure\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\api\\controllers\\notificationrecipientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|solutionrelative:api\\controllers\\notificationrecipientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\infraestructure\\repositories\\sqlnotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\sqlnotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\domain\\interfaces\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|solutionrelative:api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\usescases\\createnotificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usescases\\createnotificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\dtos\\notifications\\notificationdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\notifications\\notificationdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\api\\controllers\\evaluationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|solutionrelative:api\\controllers\\evaluationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\dtos\\evaluations\\evaluationdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\evaluations\\evaluationdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\dtos\\submissions\\submissiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\submissions\\submissiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\api\\controllers\\submissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|solutionrelative:api\\controllers\\submissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\usescases\\createsubmissionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usescases\\createsubmissionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\usescases\\createresourcehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usescases\\createresourcehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\infraestructure\\repositories\\sqlsubmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\sqlsubmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\domain\\interfaces\\isubmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\isubmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\usescases\\createevaluationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usescases\\createevaluationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\infraestructure\\repositories\\sqlevaluationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\sqlevaluationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\domain\\interfaces\\ievaluationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ievaluationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\api\\controllers\\resourcescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|solutionrelative:api\\controllers\\resourcescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\dtos\\resources\\resourcedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\resources\\resourcedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\domain\\interfaces\\iresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\infraestructure\\repositories\\sqlcoursemodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\sqlcoursemodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\usescases\\createcoursemodulehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usescases\\createcoursemodulehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\api\\controllers\\coursemodulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|solutionrelative:api\\controllers\\coursemodulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\domain\\interfaces\\icoursemodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icoursemodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\dtos\\coursemodules\\coursemoduledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\coursemodules\\coursemoduledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\dtos\\courses\\coursedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\courses\\coursedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|solutionrelative:api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\usescases\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usescases\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\usescases\\createenrollmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usescases\\createenrollmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\usescases\\createcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usescases\\createcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\infraestructure\\data\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\infraestructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\infraestructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\domain\\interfaces\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\domain\\entities\\coursemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\coursemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\infraestructure\\repositories\\sqlcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\sqlcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\domain\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E10B3B-8002-4240-AD32-D3677F1A6DCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\api\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|solutionrelative:api\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\aplication\\dtos\\enrollments\\enrollmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0230A7-F7F9-43F6-8FF7-26D0CEE7C63D}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\enrollments\\enrollmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6505E816-58F2-46A5-B54E-436048E0BE92}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\temps\\documents\\sistemas de informaci\u00F3n 3\\clean architecture\\plataformadeaprendizaje\\infraestructure\\migrations\\20250829222018_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C9440F-21A6-4780-B97A-B8D9E261FCB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\migrations\\20250829222018_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\Mapping\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Aplication\\Mapping\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\Mapping\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Aplication\\Mapping\\AutoMapperProfile.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswDsAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T23:57:11.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:23:18.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAHMBAAAAAAAAAAAowPwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:27:26.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationRecipientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\NotificationRecipientsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\NotificationRecipientsController.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\NotificationRecipientsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\NotificationRecipientsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:38:06.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\INotificationRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\INotificationRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\INotificationRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\INotificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:33:51.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlNotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Repositories\\SqlNotificationRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\SqlNotificationRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Repositories\\SqlNotificationRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\SqlNotificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T22:57:46.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAywJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T15:21:07.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateNotificationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateNotificationHandler.cs",
+              "RelativeDocumentMoniker": "Aplication\\UsesCases\\CreateNotificationHandler.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateNotificationHandler.cs",
+              "RelativeToolTip": "Aplication\\UsesCases\\CreateNotificationHandler.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAywH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T15:20:30.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T22:57:22.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificationDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\Notifications\\NotificationDtos.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\Notifications\\NotificationDtos.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\Notifications\\NotificationDtos.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\Notifications\\NotificationDtos.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA5wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T22:57:12.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateSubmissionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateSubmissionHandler.cs",
+              "RelativeDocumentMoniker": "Aplication\\UsesCases\\CreateSubmissionHandler.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateSubmissionHandler.cs",
+              "RelativeToolTip": "Aplication\\UsesCases\\CreateSubmissionHandler.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T22:20:18.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateResourceHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateResourceHandler.cs",
+              "RelativeDocumentMoniker": "Aplication\\UsesCases\\CreateResourceHandler.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateResourceHandler.cs",
+              "RelativeToolTip": "Aplication\\UsesCases\\CreateResourceHandler.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:44:28.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SqlSubmissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Repositories\\SqlSubmissionRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\SqlSubmissionRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Repositories\\SqlSubmissionRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\SqlSubmissionRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T22:19:33.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISubmissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\ISubmissionRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISubmissionRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\ISubmissionRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ISubmissionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T22:19:26.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EvaluationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\EvaluationsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\EvaluationsController.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\EvaluationsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\EvaluationsController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAA6wJUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T22:01:58.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EvaluationDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\Evaluations\\EvaluationDtos.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\Evaluations\\EvaluationDtos.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\Evaluations\\EvaluationDtos.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\Evaluations\\EvaluationDtos.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAABAwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:51:47.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubmissionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\SubmissionsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\SubmissionsController.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\SubmissionsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\SubmissionsController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T22:20:39.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubmissionDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\Submissions\\SubmissionDtos.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\Submissions\\SubmissionDtos.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\Submissions\\SubmissionDtos.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\Submissions\\SubmissionDtos.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T22:18:47.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateEvaluationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateEvaluationHandler.cs",
+              "RelativeDocumentMoniker": "Aplication\\UsesCases\\CreateEvaluationHandler.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateEvaluationHandler.cs",
+              "RelativeToolTip": "Aplication\\UsesCases\\CreateEvaluationHandler.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T22:01:29.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SqlEvaluationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Repositories\\SqlEvaluationRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\SqlEvaluationRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Repositories\\SqlEvaluationRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\SqlEvaluationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:52:45.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEvaluationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\IEvaluationRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IEvaluationRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\IEvaluationRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IEvaluationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:52:35.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResourcesController.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\ResourcesController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ResourcesController.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\ResourcesController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ResourcesController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAswIsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:44:47.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResourceDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\Resources\\ResourceDtos.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\Resources\\ResourceDtos.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\Resources\\ResourceDtos.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\Resources\\ResourceDtos.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:41:55.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IResourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\IResourceRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IResourceRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\IResourceRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IResourceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:40:48.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SqlCourseModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Repositories\\SqlCourseModuleRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\SqlCourseModuleRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Repositories\\SqlCourseModuleRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\SqlCourseModuleRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA9wB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:12:13.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourseModulesController.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\CourseModulesController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CourseModulesController.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\CourseModulesController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CourseModulesController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAxwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:09:35.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateCourseModuleHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateCourseModuleHandler.cs",
+              "RelativeDocumentMoniker": "Aplication\\UsesCases\\CreateCourseModuleHandler.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateCourseModuleHandler.cs",
+              "RelativeToolTip": "Aplication\\UsesCases\\CreateCourseModuleHandler.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T21:08:50.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICourseModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\ICourseModuleRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ICourseModuleRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\ICourseModuleRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ICourseModuleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:32:35.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CourseModuleDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\CourseModules\\CourseModuleDtos.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\CourseModules\\CourseModuleDtos.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\CourseModules\\CourseModuleDtos.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\CourseModules\\CourseModuleDtos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T23:42:46.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CourseDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\Courses\\CourseDtos.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\Courses\\CourseDtos.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\Courses\\CourseDtos.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\Courses\\CourseDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:22:53.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EfUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Data\\EfUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\EfUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Data\\EfUnitOfWork.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\EfUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T23:44:47.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:16:12.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateCourseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateCourseHandler.cs",
+              "RelativeDocumentMoniker": "Aplication\\UsesCases\\CreateCourseHandler.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateCourseHandler.cs",
+              "RelativeToolTip": "Aplication\\UsesCases\\CreateCourseHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T23:35:14.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateEnrollmentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateEnrollmentHandler.cs",
+              "RelativeDocumentMoniker": "Aplication\\UsesCases\\CreateEnrollmentHandler.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateEnrollmentHandler.cs",
+              "RelativeToolTip": "Aplication\\UsesCases\\CreateEnrollmentHandler.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:04:44.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "Aplication\\UsesCases\\CreateUserHandler.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\UsesCases\\CreateUserHandler.cs",
+              "RelativeToolTip": "Aplication\\UsesCases\\CreateUserHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T23:35:22.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvz0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:27:58.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:34:48.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\IBaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBaseEntity.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\IBaseEntity.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IBaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:32:36.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CourseModule.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Entities\\CourseModule.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CourseModule.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Entities\\CourseModule.cs",
+              "RelativeToolTip": "Domain\\Entities\\CourseModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:22:34.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "Domain\\Entities\\Course.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:22:18.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:22:38.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Interfaces\\ICourseRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:24:33.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SqlCourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Repositories\\SqlCourseRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\SqlCourseRepository.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Repositories\\SqlCourseRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\SqlCourseRepository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:24:58.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T23:25:33.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EnrollmentDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\Enrollments\\EnrollmentDtos.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\Enrollments\\EnrollmentDtos.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Aplication\\DTOs\\Enrollments\\EnrollmentDtos.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\Enrollments\\EnrollmentDtos.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA2wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T23:56:30.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\EnrollmentsController.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAywIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:05:09.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:27:52.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250829222018_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Migrations\\20250829222018_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20250829222018_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Infraestructure\\Migrations\\20250829222018_InitialCreate.cs",
+              "RelativeToolTip": "Infraestructure\\Migrations\\20250829222018_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:20:18.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Temps\\Documents\\Sistemas de Informaci\u00F3n 3\\Clean Architecture\\PlataformaDeAprendizaje\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T22:49:45.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
